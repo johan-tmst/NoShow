@@ -1,0 +1,11 @@
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+.card mb-4 shadow-sm:hover {
+	box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
+	transform: scale(1.03);
+}
